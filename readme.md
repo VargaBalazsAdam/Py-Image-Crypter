@@ -56,5 +56,3 @@ An example:
 - The encrypted file is saved with a `.en` extension, and the decrypted image is saved as a PNG file.
 
 - In case of errors during the process, appropriate error messages will be displayed in the result label.
-
-Feel free to customize the script according to your requirements."# Py-Image-Crypter"   git init  git add README.md  git commit -m "first commit"  git branch -M main  git remote add origin https://github.com/VargaBalazsAdam/Py-Image-Crypter.git  git push -u origin main
